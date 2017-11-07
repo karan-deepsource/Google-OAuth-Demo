@@ -1,6 +1,6 @@
 # Installation guide
 
-1) Clone repository ```git clone https://github.com/mohi7solanki/Google-OAuth-Demo.git```
+1) Clone repository ```git clone https://github.com/fosstack/Google-OAuth-Demo```
 2) cd (change directory) to repository. 
 3) Create a virtualenv ``` virtualenv -p python3 . ```
 4) Activate virtualenv ``` source bin/activate  ```
